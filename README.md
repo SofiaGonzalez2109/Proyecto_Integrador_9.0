@@ -40,7 +40,12 @@ Modelado de Base de Datos Relacional (MySQL):
 
 Los datos se transformaron y se importaron a una base de datos en MySQL.
 
-Se creó un modelo relacional con cinco tablas: dim_planes, dim_consultores, dim_operadores, dim_canales_de_ventas y fact_transacciones.
+Se creó un modelo relacional con cinco tablas: 
+A. dim_planes
+B. dim_consultores
+C. dim_operadores
+D. dim_canales_de_ventas
+E. fact_transacciones
 
 Un script específico se usó para una limpieza inicial, corrigiendo errores, manejando valores nulos y estandarizando los tipos de datos.
 
